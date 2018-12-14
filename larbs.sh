@@ -21,7 +21,7 @@ esac done
 
 # DEFAULTS:
 [ -z ${dotfilesrepo+x} ] && dotfilesrepo="https://github.com/andreoestereich/dotfiles"
-[ -z ${progsfile+x} ] && progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/progs.csv"
+[ -z ${progsfile+x} ] && progsfile="https://raw.githubusercontent.com/andreoestereich/archBs/master/progList.cvs"
 [ -z ${aurhelper+x} ] && aurhelper="yay"
 
 ###
